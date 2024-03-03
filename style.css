@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #b8e1e4;
+    color: #3e2959;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.image{
+    width:100vw;
+    height:40vh;
+
+}
+#name{
+    color:blue;
+}
+.name{
+    color:rgb(29, 80, 99);
+}
+h1{
+    color: #24133a;
+}
+h3{
+    color: #77d6dc;
+}
+
